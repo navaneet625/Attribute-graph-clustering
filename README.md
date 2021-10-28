@@ -1,5 +1,4 @@
-# Smai_project
-Attributed Graph Clustering via Adaptive Graph Convolution
+# Attributed Graph Clustering via Adaptive Graph Convolution
 
 There are two ways for computing intra_cluster distance:
 1) squared 2-norm distance: square_dist(predict_labels, feature)
