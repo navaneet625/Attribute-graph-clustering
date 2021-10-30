@@ -1,6 +1,6 @@
 # Attributed Graph Clustering via Adaptive Graph Convolution
 
-For this task we, implement the Clustering method mentioned in this[paper](https://arxiv.org/pdf/1906.01210)
+For this task we, implement the Clustering method mentioned in this [paper](https://arxiv.org/pdf/1906.01210)
 
 In this project we mainly focus on Graph conolution via adaptive and for better clustering result foucsed based on Intra cluster distance.
 
